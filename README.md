@@ -50,21 +50,14 @@ movie-recommendation-system/
 └── README.md
 ```
 
-## 📄 Report
 
-A detailed 2-page project report is included:  
-**➡️ [Movie_Recommendation_System_Report.pdf](./Movie_Recommendation_System_Report.pdf)**
 
 ## 📬 Contact
 
 **Dinesh Karthik Nayak**  
 📧 dineshnayak2436@gmail.com
 
-## 📌 Future Scope
 
-- Add sentiment-based filtering using reviews
-- Include user login and profile tracking
-- Deploy app using Streamlit Cloud or Heroku
 
 ## ⭐ License
 
